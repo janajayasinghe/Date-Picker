@@ -1,4 +1,4 @@
-# Date-Picker
+# JQuery mobile date picker
 HTML input tag
  < input id='datepicker' type="text" / >
 
