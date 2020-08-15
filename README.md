@@ -1,9 +1,9 @@
 # JQuery mobile date picker
 HTML input tag
- < input id='datepicker' type="text" / >
+`< input id='datepicker' type="text" / >`
 
 Script :
-
+```
   jQuery("#datepicker").dateSelector({
   
                         onChange: function(date) {
@@ -12,7 +12,7 @@ Script :
                             
                             }                            
                     });
-
+```
 
 Default options:
 
